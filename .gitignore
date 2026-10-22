@@ -1,0 +1,65 @@
+# PondScreen .gitignore
+# The repo holds the code, the plan, the decision log and the small results.
+# Everything in data/ is downloaded or rebuilt by the scripts; see PLAN.md and
+# scripts/run_pipeline.py to recreate it.
+
+# --- Data: raw downloads (~3.9 GB) and processed rasters (~370 MB) -----------
+# data/raw/       lidar tiles, imagery tiles (hand-ordered), building zips,
+#                 master plan PDFs, IDF files, OSM extracts (third-party data,
+#                 each under its own licence)
+# data/processed/ mosaics, surfaces, ponding rasters, GeoPackages, pipeline stamps
+data/
+
+# --- Large or rebuildable outputs ---------------------------------------------
+# All map layers in one GeoPackage (~55 MB; GitHub warns above 50 MB).
+# Rebuild with scripts/09_package.py.
+outputs/layers.gpkg
+
+# Renders of pages from the Town of Tecumseh master plan (Town/Dillon copyright,
+# ~88 MB). Keep only our own notes, control points and fit parameters.
+outputs/benchmark/*.png
+
+# Local copy of the progress/results web page (published separately; embeds
+# master plan figures).
+outputs/progress/
+
+# --- Geodata and archives anywhere (guards against committing big files) ---------
+*.tif
+*.tiff
+*.img
+*.vrt
+*.ovr
+*.aux.xml
+*.gpkg
+*.gpkg-journal
+*.gpkg-wal
+*.gpkg-shm
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.las
+*.laz
+*.zip
+*.7z
+*.tar
+*.gz
+*.part
+
+# --- Python -----------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# --- Tools, editors, OS -------------------------------------------------------------
+.claude/settings.local.json
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+*.log

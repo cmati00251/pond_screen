@@ -1,0 +1,5 @@
+storm,label,depth_mm,depressions_primary,overflow_pass1,overflow_pass2,ponds_ge_0.15m,ponds_ge_0.30m,water_area_ha,water_area_ge_0.15m_ha,water_volume_m3,bld_at_risk_0.15m,bld_high_risk_0.30m,bld_plan_rule,buildings_in_study_area,artefact_flagged_overflowing
+2yr,"2-year, 4 h",38.5,1600,1330,1376,772,158,46.24,11.66,51650.0,929,185,1859,3988,47
+10yr,"10-year, 4 h",57.5,1600,1434,1463,805,170,53.75,17.44,71977.0,1051,292,2070,3988,49
+100yr,"100-year, 4 h",81.3,1600,1496,1515,816,178,56.68,20.62,80685.0,1114,338,2468,3988,50
+2017like,"2017-like, 100 mm",100.0,1600,1517,1533,817,186,57.06,21.12,81802.0,1122,351,2480,3988,52

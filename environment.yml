@@ -1,0 +1,21 @@
+﻿name: pluvial
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - gdal
+  - rasterio
+  - geopandas
+  - shapely
+  - pyproj
+  - numpy
+  - scipy
+  - matplotlib
+  - pymupdf
+  - requests
+  - truststore
+  - opencv
+  - pip
+  - pip:
+      - whitebox
+

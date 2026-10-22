@@ -1,0 +1,19 @@
+png,pdf,pdf_page,caption,width_px,height_px
+tmr_fig1-2_service_areas.png,storm-drainage-master-plan-technical-modelling-report-final.pdf,15,Fig 1.2 Storm pump station service area and gravity outfall map,2550,1650
+tmr_fig8-6_major_system_areas.png,storm-drainage-master-plan-technical-modelling-report-final.pdf,91,Fig 8.6 Existing condition major system drainage area plan,1650,2550
+tmr_fig8-1_hgl_2yr_west.png,storm-drainage-master-plan-technical-modelling-report-final.pdf,81,Fig 8.1 West of Manning: existing 1:2 yr storm sewer hydraulic conditions,1650,2550
+tmr_fig8-4_hgl_2yr_east.png,storm-drainage-master-plan-technical-modelling-report-final.pdf,87,Fig 8.4 East of Manning: existing 1:2 yr storm sewer hydraulic conditions,2550,1650
+tmr_fig8-2_problem_W1_W2.png,storm-drainage-master-plan-technical-modelling-report-final.pdf,84,Fig 8.2 Surface flooding problem areas W-1 & W-2 (1:100 yr existing),2550,1650
+tmr_fig8-3_problem_W3.png,storm-drainage-master-plan-technical-modelling-report-final.pdf,85,Fig 8.3 Surface flooding problem area W-3 (1:100 yr existing),2550,1650
+tmr_fig8-5_problem_E1.png,storm-drainage-master-plan-technical-modelling-report-final.pdf,89,Fig 8.5 Surface flooding problem area E-1 (1:100 yr existing),2550,1650
+tmr_fig11-15_W1_100yr.png,storm-drainage-master-plan-technical-modelling-report-final.pdf,151,"Fig 11.15 1:100 yr existing vs future surface flooding, W-1",2550,1650
+tmr_fig11-16_W1_100yr40.png,storm-drainage-master-plan-technical-modelling-report-final.pdf,152,"Fig 11.16 1:100 yr +40% existing vs future surface flooding, W-1",2550,1650
+tmr_fig11-17_W2_100yr.png,storm-drainage-master-plan-technical-modelling-report-final.pdf,153,"Fig 11.17 1:100 yr existing vs future surface flooding, W-2",2550,1650
+tmr_fig11-18_W2_100yr40.png,storm-drainage-master-plan-technical-modelling-report-final.pdf,154,"Fig 11.18 1:100 yr +40% existing vs future surface flooding, W-2",2550,1650
+tmr_fig11-19_W3_100yr.png,storm-drainage-master-plan-technical-modelling-report-final.pdf,155,"Fig 11.19 1:100 yr existing vs future surface flooding, W-3",2550,1650
+tmr_fig11-20_W3_100yr40.png,storm-drainage-master-plan-technical-modelling-report-final.pdf,156,"Fig 11.20 1:100 yr +40% existing vs future surface flooding, W-3",2550,1650
+tmr_fig11-21_E1_100yr.png,storm-drainage-master-plan-technical-modelling-report-final.pdf,157,"Fig 11.21 1:100 yr existing vs future surface flooding, E-1",1650,2550
+tmr_fig11-22_E1_100yr40.png,storm-drainage-master-plan-technical-modelling-report-final.pdf,158,"Fig 11.22 1:100 yr +40% existing vs future surface flooding, E-1",1650,2550
+apx_figC-1_ponding.png,tecumseh-stormwater-drainage-master-plan-technical-modelling-report-appendices_optimized.pdf,596,Appendix C Fig C-1 existing condition 2D surface ponding,1650,2550
+apx_figC-2_ponding.png,tecumseh-stormwater-drainage-master-plan-technical-modelling-report-appendices_optimized.pdf,597,Appendix C Fig C-2 existing condition 2D surface ponding,1650,2550
+apx_figC-3_ponding_24h39.png,tecumseh-stormwater-drainage-master-plan-technical-modelling-report-appendices_optimized.pdf,598,"Appendix C Fig C-3 existing condition 2D surface ponding, 1:100 yr 24 h +39%",1650,2550

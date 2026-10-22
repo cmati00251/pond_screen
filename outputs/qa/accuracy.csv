@@ -1,0 +1,7 @@
+class,mapped_n,true_n,correct,users_acc_pct,producers_acc_pct
+roof,29,32,28,96.6,87.5
+tree,36,27,27,75.0,100.0
+grass,50,59,50,100.0,84.7
+water,0,1,0,,0.0
+sealed,79,75,68,86.1,90.7
+overall,194,194,173,89.2,

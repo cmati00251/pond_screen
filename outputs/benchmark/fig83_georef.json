@@ -1,0 +1,29 @@
+{
+ "figure": "TMR Figure 8.3 (problem area W-3)",
+ "page": 85,
+ "method": "hand alignment on OSM roads, refined by maximising OSM street points on ponding hexagons",
+ "initial": {
+  "s": 1.7,
+  "E0": 342906.0,
+  "N0": 4686164.0,
+  "rot": 0.0
+ },
+ "refined": {
+  "s": 1.772,
+  "E0": 342831.0,
+  "N0": 4686261.0,
+  "rot": 0.2
+ },
+ "score_initial": 0.1034,
+ "score_refined": 0.189,
+ "refinement_shift_m": 45.9,
+ "transform": [
+  1.7719892043696046,
+  0.006185434307776454,
+  342831.0,
+  0.006185434307776454,
+  -1.7719892043696046,
+  4686261.0
+ ],
+ "problem_areas": 2
+}

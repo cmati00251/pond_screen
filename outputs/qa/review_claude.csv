@@ -1,0 +1,32 @@
+id,truth,note
+2,ambiguous,point beside footprint; roof in photo is building lean; lidar ground
+7,sealed,driveway; no tree in 2025 photo (lidar 2016-18 tree removed)
+9,roof,roof eave outside footprint wall line (h 6.9 m)
+16,ambiguous,beside commercial footprint; lean vs paved yard unclear
+22,roof,low roof (garage/porch) between two footprints; not in ODB
+31,sealed,car / driveway between houses (h 3.0 m)
+40,ambiguous,beside footprint under tree; building lean
+42,grass,dry dormant grass beside rail line
+47,ambiguous,glass atrium at footprint edge
+53,grass,lawn under utility pole/wires (lidar hit pole)
+54,roof,shed / trailer roof; not in ODB or lidar
+64,ambiguous,between garage and house footprints; lean
+65,sealed,driveway/flat surface under pole and wires (h 10.8 m)
+68,water,ponded / iced wet ground
+70,ambiguous,roof edge just outside footprint; lean
+72,roof,flat commercial roof with vents; no footprint; lidar ground (post-2018?)
+74,grass,dry grass / soil
+91,grass,lawn in house shadow (NDVI depressed by shadow)
+93,sealed,driveway next to garage; no tree visible (h 2.3 m)
+117,grass,dry boulevard grass
+119,roof,roof eave at footprint edge (h 6.7 m)
+128,sealed,patio / pool deck; no tree (h 2.0 m)
+137,grass,lawn; no tree in 2025 photo (h 9.3 m)
+139,grass,bare soil / mud (pervious)
+146,grass,cemetery lawn; dormant
+156,sealed,storage yard with stacked pallets (h 4.5 m)
+158,sealed,roadside utility pole (h 5.0 m)
+170,grass,dry grass beside rail line
+182,ambiguous,narrow gap between footprints; small structure or tree
+191,ambiguous,low flat structure near playground (h 1.6 m)
+199,roof,roof eave at footprint edge (h 3.8 m)
